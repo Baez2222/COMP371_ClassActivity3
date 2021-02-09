@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClassActivity3</string>
+    <string name="textField_city">Enter city name</string>
+    <string name="button_go">Go</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="city_not_found">No city found.</string>
+</resources>
